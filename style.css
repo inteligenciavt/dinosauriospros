@@ -1,0 +1,9 @@
+img{
+	border-radius:8px ;
+	opacity: 0.5;
+	transform: scaleX(-1);
+	filter: blur(2px);
+	filter: drop-shadow(8px 8px 10px gray);
+	filter: invert(0.3);
+	filter: sepia(1);
+}
